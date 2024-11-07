@@ -12,3 +12,4 @@ int main()
     } while (i <= j);
     printf("%d\n",i*j);//12 loops
 }
+/*same op with do inside do */
